@@ -13,4 +13,4 @@
 [CLICK THIS TO SEE THE EXPECTED OUTPUT FOR EACH TASK IN SPECIFICATION!](<Problem Set 0/cyberchase_expected_output.txt>)
 
 ## 1. MY SOLUTION
-- []()
+[1.sql](<Problem Set 0/cyberchase/1.sql>)
