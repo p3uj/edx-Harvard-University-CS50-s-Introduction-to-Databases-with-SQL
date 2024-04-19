@@ -1,7 +1,9 @@
 # Problem Set 0 : Querying
 
 ##### TABLE OF CONTENTS
-
+- [1. Cyberchase](#1-cyberchase)
+  * [1. STATEMENT](#1-statement)
+  * [1. MY SOLUTION](#1-my-solution)
 
 
 # 1. Cyberchase
